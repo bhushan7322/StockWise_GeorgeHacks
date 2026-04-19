@@ -1,3 +1,5 @@
 node_modules/
 .env
 .mongodb-binaries/
+.claude/
+docs/superpowers/
